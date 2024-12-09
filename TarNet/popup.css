@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: black;
+  width: 200px;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: white;
+  font-size: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  color: white;
+}
+
+li {
+  margin: 5px 0;
+  color: white;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
