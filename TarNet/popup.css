@@ -1,5 +1,6 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "fractul-variable", sans-serif;
+  font-variation-settings: "wght" 400;
   margin: 20px;
   background-color: black;
   width: 200px;
@@ -29,6 +30,8 @@ li {
 }
 
 button {
+  font-family: "fractul-variable", sans-serif;
+  font-variation-settings: "wght" 400;
   margin-top: 10px;
   padding: 5px 10px;
   background-color: red;
